@@ -13,14 +13,14 @@ header:
 
 - **University of Kansas**:  
 
-∗ Grade Point Average(GPA): 3.6\
-∗ Coursework in Liberal Arts Social Sciences.\
-∗ More than 70 Credit Hours completed.\
-∗ Member of Phi Theta Kappa Honor Society.
+    ∗ Grade Point Average(GPA): 3.6\
+    ∗ Coursework in Liberal Arts Social Sciences.\
+    ∗ More than 70 Credit Hours completed.\
+    ∗ Member of Phi Theta Kappa Honor Society.
 
 ## Previous work experiences
 
-- **CGS Inc.** - Customer Service Technician:  
+- **CGS Inc.** - Customer Service Technician:                                                                                         July 2022 – Present\
 ∗ Troubleshot, researched, isolated and resolved information system problems using internal knowledge base and tools.\
 ∗ Recognized customer’s problems that should be escalated to the next level for resolution following established protocols.\
 ∗ Applied understanding and knowledge of information systems products and services to assist customers on technical
