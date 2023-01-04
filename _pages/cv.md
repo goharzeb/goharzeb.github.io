@@ -27,7 +27,7 @@ header:
 ∗ Assigned appropriate technicians for tasks and dispatched them.
 
 
-- **Uber** - Ridesharing Driver (Kansas City, MO): 
+- **Uber** - Ridesharing Driver (Kansas City, MO): \
 ∗ Establish a friendly and professional rapport with customers, achieving a 99.5 percent satisfaction rating in 2021-2022.\
 ∗ Ensured that customer arrived safely and timely to their destination while creating customer satisfaction.\
 ∗ Created Excel spreadsheet and maintained files to track mileage, maintenance, and miscellaneous expenses.\
