@@ -12,17 +12,21 @@ header:
 ## Education
 
 - **University of Kansas**:  
-  - Coursework in Liberal Arts Social Sciences.
+• Grade Point Average(GPA): 3.6
+• Coursework in Liberal Arts Social Sciences.
 • More than 70 Credit Hours completed.
 • Member of Phi Theta Kappa Honor Society.
 
-  
-- **Air University Islamabad**:  
-  I received a **B.S. degree** in Computer Science from Air University in 2019. I graduated with Honors and was among the **top 2** in my class and **top 3** students in the whole batch of around 150 students.
+
 ## Previous work experiences
 
-- **Software Engineer** - Quantum Analytica:  
-  My latest work experience was working remotely on various projects at Quantum Analytica. In this role, I leverageed my previous knowledge  across a wide spectrum of applications in real-estate, messaging, finance and more from the conception to the deployment phase. Some responsibilities include developing custom building APIs for scalable deployment, refactoring legacy code, increasing test coverage and more.
+- **CGS Inc.** - Customer Service Technician:  
+    Troubleshot, researched, isolated and resolved information system problems using internal knowledge base and tools.
+  ∗ Recognized customer’s problems that should be escalated to the next level for resolution following established protocols.
+  ∗ Applied understanding and knowledge of information systems products and services to assist customers on technical
+  matters.
+  ∗ Assigned appropriate technicians for tasks and dispatched them.
+
 
 - **Full-Stack Developer / Software Engineer** - Jiddit:  
   Here I worked closely with MD's of Morgan Stanley and Bank of America in developing a financial news aggregator from the ground up. In addition, I developed M-score, a classifying measure, which uses scores generated from IBM-Watson models, NLP APIs such as TextRazor to group relevant financial topics. I also helped kick start a Pakistani news aggregator.
