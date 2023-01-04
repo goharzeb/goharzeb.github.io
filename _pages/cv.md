@@ -12,8 +12,8 @@ header:
 ## Education
 
 - **University of Kansas**:  
-• Grade Point Average(GPA): 3.6
-• Coursework in Liberal Arts Social Sciences.
+-• Grade Point Average(GPA): 3.6
+-• Coursework in Liberal Arts Social Sciences.
 • More than 70 Credit Hours completed.
 • Member of Phi Theta Kappa Honor Society.
 
