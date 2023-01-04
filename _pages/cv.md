@@ -11,8 +11,11 @@ header:
 
 ## Education
 
-- **University of Southern California**:  
-  I am currently pursuing an **M.S. degree** in Computer Science from USC. 
+- **University of Kansas**:  
+  - Coursework in Liberal Arts Social Sciences.
+• More than 70 Credit Hours completed.
+• Member of Phi Theta Kappa Honor Society.
+
   
 - **Air University Islamabad**:  
   I received a **B.S. degree** in Computer Science from Air University in 2019. I graduated with Honors and was among the **top 2** in my class and **top 3** students in the whole batch of around 150 students.
