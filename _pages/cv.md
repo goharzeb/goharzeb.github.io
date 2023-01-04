@@ -12,8 +12,8 @@ header:
 ## Education
 
 - **University of Kansas**:  
--• Grade Point Average(GPA): 3.6
--• Coursework in Liberal Arts Social Sciences.
+• Grade Point Average(GPA): 3.6
+• Coursework in Liberal Arts Social Sciences.
 • More than 70 Credit Hours completed.
 • Member of Phi Theta Kappa Honor Society.
 
@@ -28,10 +28,18 @@ header:
 ∗ Assigned appropriate technicians for tasks and dispatched them.
 
 
-- **Full-Stack Developer / Software Engineer** - Jiddit:  
-  Here I worked closely with MD's of Morgan Stanley and Bank of America in developing a financial news aggregator from the ground up. In addition, I developed M-score, a classifying measure, which uses scores generated from IBM-Watson models, NLP APIs such as TextRazor to group relevant financial topics. I also helped kick start a Pakistani news aggregator.
+- **Uber** - Ridesharing Driver:  
+  Establish a friendly and professional rapport with customers, achieving a 99.5 percent satisfaction rating in 2021-2022 
+∗ Ensured that customer arrived safely and timely to their destination while creating customer satisfaction.
+∗ Created Excel spreadsheet and maintained files to track mileage, maintenance, and miscellaneous expenses.
+∗ Planned and executed efficient journeys using satnav and physical maps, including multi-drop routes.
   
-- **Summer Intern** - Cebs Pvt. Ltd:  
-  In the summer of 2018, I worked as an Intern at Cebs in Islamabad. I worked primarily on an e-commerce platform on backend, frontend, search features and more.
+- **Olathe School District** - International Language Interpreter:  
+∗ Supported student education by accompanying individuals and assemblies to translate instructions, conversations, and documents.
+∗ Provided cultural input to speakers to help both parties understand each other.
+∗ Handled all customer relations matters in a gracious manner and in accordance with school district policies.
 
-
+  
+- **Hylan Dairy and Bagels** - Cashier/Customer Service Representative:
+- Kept drawers accurate, current, and secure by checking bills for counterfeit markers, storing large bills, and keeping adequate change.
+- Helped customers complete purchases, locate items, and join reward programs to promote loyalty, satisfaction, and sales numbers.
