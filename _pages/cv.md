@@ -12,34 +12,41 @@ header:
 ## Education
 
 - **University of Kansas**:  
-• Grade Point Average(GPA): 3.6
-• Coursework in Liberal Arts Social Sciences.
-• More than 70 Credit Hours completed.
-• Member of Phi Theta Kappa Honor Society.
 
+∗ Grade Point Average(GPA): 3.6\
+∗ Coursework in Liberal Arts Social Sciences.\
+∗ More than 70 Credit Hours completed.\
+∗ Member of Phi Theta Kappa Honor Society.
 
 ## Previous work experiences
 
 - **CGS Inc.** - Customer Service Technician:  
-∗ Troubleshot, researched, isolated and resolved information system problems using internal knowledge base and tools.
-∗ Recognized customer’s problems that should be escalated to the next level for resolution following established protocols.
+∗ Troubleshot, researched, isolated and resolved information system problems using internal knowledge base and tools.\
+∗ Recognized customer’s problems that should be escalated to the next level for resolution following established protocols.\
 ∗ Applied understanding and knowledge of information systems products and services to assist customers on technical
-  matters.
+  matters.\
 ∗ Assigned appropriate technicians for tasks and dispatched them.
 
 
 - **Uber** - Ridesharing Driver:  
-  Establish a friendly and professional rapport with customers, achieving a 99.5 percent satisfaction rating in 2021-2022 
-∗ Ensured that customer arrived safely and timely to their destination while creating customer satisfaction.
-∗ Created Excel spreadsheet and maintained files to track mileage, maintenance, and miscellaneous expenses.
+∗ Establish a friendly and professional rapport with customers, achieving a 99.5 percent satisfaction rating in 2021-2022.\
+∗ Ensured that customer arrived safely and timely to their destination while creating customer satisfaction.\
+∗ Created Excel spreadsheet and maintained files to track mileage, maintenance, and miscellaneous expenses.\
 ∗ Planned and executed efficient journeys using satnav and physical maps, including multi-drop routes.
   
 - **Olathe School District** - International Language Interpreter:  
-∗ Supported student education by accompanying individuals and assemblies to translate instructions, conversations, and documents.
-∗ Provided cultural input to speakers to help both parties understand each other.
+∗ Supported student education by accompanying individuals and assemblies to translate instructions, conversations, and documents.\
+∗ Provided cultural input to speakers to help both parties understand each other.\
 ∗ Handled all customer relations matters in a gracious manner and in accordance with school district policies.
 
   
 - **Hylan Dairy and Bagels** - Cashier/Customer Service Representative:
-- Kept drawers accurate, current, and secure by checking bills for counterfeit markers, storing large bills, and keeping adequate change.
-- Helped customers complete purchases, locate items, and join reward programs to promote loyalty, satisfaction, and sales numbers.
+* Kept drawers accurate, current, and secure by checking bills for counterfeit markers, storing large bills, and keeping adequate change.\
+* Helped customers complete purchases, locate items, and join reward programs to promote loyalty, satisfaction, and sales numbers.
+
+- **IZ Telecom** - Lead Generation/ Call Center Agent:  
+∗ Developed sales leads through cold calling, marketing lists, and internet leads.\
+∗ Working in CRM made initial contacts with decision makers, collected qualifying information.\
+∗ Collaborated with members of other departments to complete sales transactions when needed. \
+∗ Answered all customer questions related to products, services, and pricing.
+
