@@ -21,11 +21,11 @@ header:
 ## Previous work experiences
 
 - **CGS Inc.** - Customer Service Technician:  
-    Troubleshot, researched, isolated and resolved information system problems using internal knowledge base and tools.
-  ∗ Recognized customer’s problems that should be escalated to the next level for resolution following established protocols.
-  ∗ Applied understanding and knowledge of information systems products and services to assist customers on technical
+∗ Troubleshot, researched, isolated and resolved information system problems using internal knowledge base and tools.
+∗ Recognized customer’s problems that should be escalated to the next level for resolution following established protocols.
+∗ Applied understanding and knowledge of information systems products and services to assist customers on technical
   matters.
-  ∗ Assigned appropriate technicians for tasks and dispatched them.
+∗ Assigned appropriate technicians for tasks and dispatched them.
 
 
 - **Full-Stack Developer / Software Engineer** - Jiddit:  
