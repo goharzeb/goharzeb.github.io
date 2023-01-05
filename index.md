@@ -5,7 +5,7 @@ author_profile: true
 excerpt: 'Hi! I am Sahibzada and welcome to my personal website.'
 header:
   overlay_image: /images/kc.jpg
-  caption: "Photo credit: [**wallpaper safari**](https://wallpapercave.com/w/wp1884173)"
+  caption: "Photo credit: [**wallpaper cave**](https://wallpapercave.com/w/wp1884170)"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
