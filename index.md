@@ -20,7 +20,7 @@ header:
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[qaisk52@gmail.com](mailto:qaisk52@gmail.com)_**
+For any inquires, you can reach me via email: **_[sgkhan245@gmail.com](mailto:sgkhan245@gmail.com)_**
 
 
 
