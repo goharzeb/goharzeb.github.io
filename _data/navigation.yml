@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "resume"
-    url: /resume/
+  - title: "Resume"
+    url: /cv/
   - title: "About"
     url: https://goharzeb.github.io
   # - title: "About"
