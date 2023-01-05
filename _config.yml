@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" #, "air", "aqua", "contrast", "dark", "dir
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qais Khan's Log Book"
+title                    : "Sahibzada Goharzeb Khan's Log Book"
 title_separator          : "|"
-name                     : "Qais Khan"
-description              : "Software Engineering, Computer Science. "
+name                     : "Sahibzada Goharzeb Khan"
+description           #   : "Software Engineering, Computer Science. "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qais Khan"
+  name             : "Sahibzada Khan"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sofware Engineering, Computer Science."
-  location         : "Los Angeles"
-  email            : "qaisk52@gmail.com"
+  location         : "Kansas City"
+  email            : "sgkhan245@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qaiis"
+  github           : "goharzeb"
   gitlab           :
   google_plus      :
   keybase          :
