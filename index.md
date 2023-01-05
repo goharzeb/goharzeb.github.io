@@ -1,5 +1,5 @@
 ---
-title: 'Sahibzada Goharzeb Khan'
+title: 'Sahibzada Khan'
 layout: single
 author_profile: true
 excerpt: 'Hi! I am Sahibzada and welcome to my personal website.'
